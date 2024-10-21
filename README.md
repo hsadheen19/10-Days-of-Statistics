@@ -10,3 +10,5 @@ This repository contains my solutions to the **10 Days of Statistics** challenge
 - **Mathematical and Statistical Libraries**:
   - `numpy` for numerical operations.
   - `scipy` for advanced statistical functions.
+
+## https://www.hackerrank.com/profile/h_sadheen
